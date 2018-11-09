@@ -1,0 +1,50 @@
+{
+  "usuarios": [{
+      "id": 1,
+      "nome": "Jhon Walker",
+      "foto": "https://randomuser.me/api/portraits/men/14.jpg"
+    },
+    {
+      "id": 2,
+      "nome": "Carlos Chagas",
+      "foto": "https://randomuser.me/api/portraits/men/17.jpg"
+    },
+    {
+      "id": 3,
+      "nome": "Roberto Fernandes",
+      "foto": "https://randomuser.me/api/portraits/men/19.jpg"
+    },
+    {
+      "id": 4,
+      "nome": "Antonio Pereira",
+      "foto": "https://randomuser.me/api/portraits/men/20.jpg"
+    },
+    {
+      "id": 5,
+      "nome": "Marcelo Costa",
+      "foto": "https://randomuser.me/api/portraits/men/21.jpg"
+    }
+  ],
+
+  "posts": [{
+      "id": 1,
+      "title": "Troca de óleo",
+      "url": "https://images.unsplash.com/photo-1532511400917-f82b5ce51f29?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=2d23d4526c85af841f59cf5acbb9ac0a&auto=format&fit=crop&w=750&q=80"
+    },
+    {
+      "id": 2,
+      "title": "Manutenção Ferramentas",
+      "url": "https://images.unsplash.com/photo-1530124566582-a618bc2615dc?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=a3e78875787579e6a4f81a07177378cf&auto=format&fit=crop&w=750&q=80"
+    },
+    {
+      "id": 3,
+      "title": "Mecânico em Domicílio",
+      "url": "https://images.unsplash.com/photo-1504222490345-c075b6008014?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=f33c15f45a57cacdb5502bdd9a8464c3&auto=format&fit=crop&w=750&q=80"
+    },
+    {
+      "id": 4,
+      "title": "Super Troca de óleo",
+      "url": "https://images.unsplash.com/photo-1487754180451-c456f719a1fc?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=e13533f972439e57279c7a4058396805&auto=format&fit=crop&w=750&q=80"
+    }
+  ]
+}
